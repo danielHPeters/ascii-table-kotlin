@@ -1,2 +1,2 @@
 # AsciiTable
-Simple command line ascii table in Java
+Simple command line ascii table in kotlin.
